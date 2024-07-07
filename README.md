@@ -1,0 +1,4 @@
+- 你好，我是殊寒
+- 我的兴趣方向是LLM、CV以及基于多模态的AGI。
+- 我目前正在学习pytorch、transformer、以及AI自动化运维
+- 😄 Pronouns: 有趣、开朗、学习速度快
